@@ -25,6 +25,10 @@ L'objectif est simple : documenter chaque étape de ma progression, mes labos, m
 - Reconnaissance réseau (Nmap)
 - Diagnostic et résolution de problèmes réseau
 - Méthodologie de pentest (en environnement isolé et légal)
+- Segmentation réseau et configuration VLAN (Cisco Packet Tracer)
+- Routage inter-VLAN (Router-on-a-Stick, sous-interfaces, 802.1Q)
+- Configuration de services réseau (DHCP, DNS)
+- Conception de plans d'adressage IP
 
 ## 🔒 Cadre éthique
 
