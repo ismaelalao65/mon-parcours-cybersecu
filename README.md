@@ -15,6 +15,7 @@ L'objectif est simple : documenter chaque étape de ma progression, mes labos, m
 | Projet | Description | Statut |
 |---|---|---|
 | [01 — Test de connectivité entre VMs](./01-test-connectivite-vms/) | Mise en place d'un labo de pentest (Kali, Metasploitable2, Ubuntu Server, Windows Server) et validation de la connectivité réseau entre les machines | ✅ Terminé |
+| [02 — Segmentation réseau VLAN/DHCP/DNS](./02-vlan-dhcp-dns/) | Conception d'un réseau segmenté avec VLAN, routage inter-VLAN, DHCP et DNS sous Cisco Packet Tracer | ✅ Terminé |
 
 *(Ce tableau s'enrichira au fur et à mesure de mes prochains projets)*
 
